@@ -1,0 +1,17 @@
+C:\Senai CTM\BazarCRUD\BazarCRUD\BazarCRUD\bin\Debug\PessoaDB.mdf
+C:\Senai CTM\BazarCRUD\BazarCRUD\BazarCRUD\bin\Debug\PessoaDB_log.ldf
+C:\Senai CTM\BazarCRUD\BazarCRUD\BazarCRUD\bin\Debug\BazarCRUD.exe.config
+C:\Senai CTM\BazarCRUD\BazarCRUD\BazarCRUD\bin\Debug\BazarCRUD.exe
+C:\Senai CTM\BazarCRUD\BazarCRUD\BazarCRUD\bin\Debug\BazarCRUD.pdb
+C:\Senai CTM\BazarCRUD\BazarCRUD\BazarCRUD\obj\Debug\BazarCRUD.csproj.AssemblyReference.cache
+C:\Senai CTM\BazarCRUD\BazarCRUD\BazarCRUD\obj\Debug\BazarCRUD.csproj.SuggestedBindingRedirects.cache
+C:\Senai CTM\BazarCRUD\BazarCRUD\BazarCRUD\obj\Debug\BazarCRUD.Form1.resources
+C:\Senai CTM\BazarCRUD\BazarCRUD\BazarCRUD\obj\Debug\BazarCRUD.Properties.Resources.resources
+C:\Senai CTM\BazarCRUD\BazarCRUD\BazarCRUD\obj\Debug\BazarCRUD.csproj.GenerateResource.cache
+C:\Senai CTM\BazarCRUD\BazarCRUD\BazarCRUD\obj\Debug\BazarCRUD.csproj.CoreCompileInputs.cache
+C:\Senai CTM\BazarCRUD\BazarCRUD\BazarCRUD\obj\Debug\BazarCRUD.exe
+C:\Senai CTM\BazarCRUD\BazarCRUD\BazarCRUD\obj\Debug\BazarCRUD.pdb
+C:\Senai CTM\BazarCRUD\BazarCRUD\BazarCRUD\bin\Debug\BazarCRUD.exe.manifest
+C:\Senai CTM\BazarCRUD\BazarCRUD\BazarCRUD\bin\Debug\BazarCRUD.application
+C:\Senai CTM\BazarCRUD\BazarCRUD\BazarCRUD\obj\Debug\BazarCRUD.exe.manifest
+C:\Senai CTM\BazarCRUD\BazarCRUD\BazarCRUD\obj\Debug\BazarCRUD.application
